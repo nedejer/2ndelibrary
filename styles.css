@@ -268,3 +268,14 @@ padding: 24px;
     padding-right: 6px;
     color: #bfbfbf;
 }
+
+/*
+
+RECENT
+
+*/
+
+.books__recent {
+    display: flex;
+    flex-wrap: wrap;
+}
